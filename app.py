@@ -25,7 +25,7 @@ def pre_process_edgetpu(img, dims):
     img = center_crop(img, output_height, output_width)
     img = np.asarray(img, dtype='float32')
     # converts jpg pixel value from [0 - 255] to float array [-1.0 - 1.0]
-    img -= [127.0, 127.0, 127.0]
+    img -= [150.0, 150.0, 150.0]
     img /= [128.0, 128.0, 128.0]
     return img
 
