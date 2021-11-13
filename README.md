@@ -7,3 +7,5 @@ This is an example using ONNX Efficientnet-lite4 model.
 Test Anpassung. Neue Version 1
 
 Und alles für Odi.... Odi 4 ever...
+
+Einer für odi, odi für alle
