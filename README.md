@@ -8,4 +8,8 @@ Test Anpassung. Neue Version 1
 
 Und alles für Odi.... Odi 4 ever...
 
+<<<<<<< HEAD
 Einer für odi, odi für alle
+=======
+Jetzt Clasht's....
+>>>>>>> 207edf975b8f01637cd11517ef400bbd6105bee0
