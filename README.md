@@ -5,3 +5,5 @@
 This is an example using ONNX Efficientnet-lite4 model.
 
 Test Anpassung. Neue Version 1
+
+Bier vor Vier - das macht Spass!
