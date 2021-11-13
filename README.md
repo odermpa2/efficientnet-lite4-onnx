@@ -19,3 +19,5 @@ Einer für odi, odi für alle
 >>>>>>> 03a2b6c5cceab1240983d9bd465cc0d3d48a5636
 Jetzt Clasht's....
 >>>>>>> 207edf975b8f01637cd11517ef400bbd6105bee0
+
+MICH SCHREIBT MAN MIT EINEM T ;)
